@@ -28,4 +28,11 @@ Windows 64-bit
 
 Linux
 
-Mac support is currently not available because I do not want to pay 100$ for a developer license
+Mac support is currently limited to:
+
+Plain HTML
+
+Zip
+
+Sb3
+
