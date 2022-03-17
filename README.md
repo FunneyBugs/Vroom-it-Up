@@ -13,3 +13,4 @@ EXE (Electron): Used for playing on a desktop without use of a browser
 EXE (Installer): Installs the game onto your desktop
 
 Note: To download the Electron and Installer versions go here: https://drive.google.com/drive/folders/1Fe5JrNA40EcN87x8YxppjyuuAm0Aglwj?usp=sharing
+This is due to me not knowing how to upload files bigger than 25mb yet
