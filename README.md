@@ -49,6 +49,12 @@ Sb3 (Scratch):
 
 # Update Logs
 
+V1.2.8
+
+- Level 14 is Here!
+- Fixed back button transparency
+- Cleaned up unnecessary sprites
+
 V1.2.7
 
 - Some bugs squashed
