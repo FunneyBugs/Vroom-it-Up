@@ -49,6 +49,12 @@ Sb3 (Scratch):
 
 # Update Logs
 
+V1.2.9
+
+- New Jingle
+- Colorblind mode added
+- Improved Developer Mode
+
 V1.2.8
 
 - Level 14 is Here!
