@@ -19,8 +19,7 @@ Right now the supported platforms are:
 - Windows 32-bit
 - Windows 64-bit
 - Linux
-
-Note: Mac support is currently limited to Sb3 files (I haven't tested Zip and HTML yet)
+- Mac (No Exe)
 
 # How to Install
 This is currently only for Exe and Sb3 files (Excluding linux).
