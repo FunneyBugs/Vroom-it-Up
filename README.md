@@ -1,7 +1,7 @@
 # Vroom it Up!
-Hello there! Thanks for choosing to download Vroom it Up! Here is some info you might want to know:
+Hello there! Welcome to the Vroom it Up! Github Page. Here is some info you might want to know:
 
-# Types of Files Available
+# Files Available for Download
 There are 6 different types of files you can use, like:
 
 - Plain HTML: Small, easy, and you can send this to your friends!
@@ -14,7 +14,7 @@ There are 6 different types of files you can use, like:
 Note: To download the Electron, Installer and Linux versions go here: https://drive.google.com/drive/folders/1Fe5JrNA40EcN87x8YxppjyuuAm0Aglwj?usp=sharing
 
 # Supported Platforms
-Right now the supported platforms are:
+Platforms that Support Vroom it Up! Are:
 
 - Windows 32-bit
 - Windows 64-bit
@@ -46,24 +46,8 @@ Sb3 (Scratch):
 - Step 4: Click "Load from your computer"
 - Step 5: Select the file and click ok
 
-# Update Logs
-
-V1.2.9
-
-- New Jingle
-- Colorblind mode added
-- Improved Developer Mode
-
-V1.2.8
-
-- Level 14 is Here!
-- Fixed back button transparency
-- Cleaned up unnecessary sprites
-
-V1.2.7
-
-- Some bugs squashed
-- Turbo mode Detection
+# Update Log
+The Following Update Logs below are before Vroom it Up! Version 1.2.7
 
 V1.2.6
 
