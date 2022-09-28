@@ -1,4 +1,8 @@
+# Update Logs
+
 These Update Logs are for Updates Before 1.2.7
+
+# Pre-1.2.7
 
 V1.2.6
 
@@ -47,6 +51,8 @@ V1.2
 - Fixed Level Counter appearing in Menu
 - Moved Mobile Button
 - Added Speedrun WR Variable
+
+# Pre-1.2
 
 V1.1.9
 
@@ -108,6 +114,8 @@ V1.1
 - New Truck Sprite
 - Redesigned Buttons
 - New Settings Menu!
+
+# Pre-1.1
 
 V1.0.9
 
