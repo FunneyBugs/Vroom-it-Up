@@ -101,6 +101,7 @@ V1.1.9
 
 - Added Dream music for Speedrun mode
 - Level 12 is here!
+- Updated UI for Speedrun Timer
 
 V1.1.8
 
@@ -111,7 +112,6 @@ V1.1.7
 
 - Speedrun Timer! (Activate in Settings)
 - Level 11 is Here!
-- Updated UI for Speedrun Timer
 
 V1.1.6
 
@@ -155,11 +155,11 @@ V1.1
 - Background Music Added
 - Bug fixes for Loading screen
 - New Truck Sprite
+- Redesigned Buttons
+- New Settings Menu!
 
 V1.0.9
 
-- Redesigned Buttons
-- New Settings Menu!
 - Even more bug fixes
 - Redesigned Car sprite
 
@@ -211,3 +211,5 @@ V1.0
 
 - Game Released
 - Game Title "Vroom It Up!" Finalized
+
+Fun Fact: Vroom It Up used to be called "Car Go Vroom Vroom" during release development.
